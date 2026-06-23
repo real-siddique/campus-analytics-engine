@@ -11,7 +11,7 @@ using namespace std;
 // Validate roll format: BSAI-YY-XXX
 bool validateRollFormat(const string& roll) {
     // Must be exactly 12 chars: BSAI-23-001
-    if (roll.length() != 12) return false;
+    if (roll.length() != 11) return false;
     // Check prefix "BSAI-"
     if (roll.substr(0, 5) != "BSAI-") return false;
     // Check YY (positions 5,6) are digits

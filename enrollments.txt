@@ -1,4 +1,4 @@
-enrollment_id,roll_no,course_code,semester,enrollment_date,status
+roll_no,course_code,semester,status
 E0001,BSAI-23-001,CS101,2,15-01-2024,active
 E0002,BSAI-23-001,CS111,2,15-01-2024,active
 E0003,BSAI-23-001,HU101,2,15-01-2024,active
@@ -123,3 +123,4 @@ E0121,BSAI-23-030,CS101,2,15-01-2024,active
 E0122,BSAI-23-030,CS111,2,15-01-2024,active
 E0123,BSAI-23-030,HU101,2,15-01-2024,active
 E0124,BSAI-23-030,IS101,2,15-01-2024,active
+BSAI-23-001,CS101,2,dropped

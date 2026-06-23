@@ -29,3 +29,4 @@ BSAI-23-027,Mariam Yousaf,Artificial Intelligence,2,3.15,active
 BSAI-23-028,Danish Zafar,Artificial Intelligence,2,2.50,active
 BSAI-23-029,Aroha Gill,Artificial Intelligence,2,3.40,active
 BSAI-23-030,Shahzaib Rana,Artificial Intelligence,2,0.00,active
+BSAI-00-001,siddique,Artificial Intelligence,2,3.9,inactive

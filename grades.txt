@@ -1,1 +1,2 @@
 roll_no,course_code,semester,quiz_avg,asgn_avg,mid,final,total,letter_grade
+BSAI-23-002,CS101,2,75.00,76.67,87.50,91.67,87.25,A
